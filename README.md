@@ -1,0 +1,2 @@
+# Spendingtracker
+ finacial spending tracker
